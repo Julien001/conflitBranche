@@ -1,0 +1,2 @@
+# conflitBranche
+Résolvez un conflit
